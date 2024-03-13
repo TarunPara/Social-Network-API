@@ -65,6 +65,9 @@ With the server running, you can use tools like Postman or Insomnia to test the 
 - **Add Friend**: `POST /api/users/:userId/friends/:friendId` - Add a friend.
 - **Delete Friend**: `DELETE /api/users/:userId/friends/:friendId` - Remove a friend.
 
+## Application Video
+https://github.com/TarunPara/Social-Network-API/assets/134483509/2908e3e5-17b7-4d01-b9c5-e003240c1105
+
 ## Contributing
 
 If you're interested in contributing to this project, your help is very welcome! Feel free to fork the repository, make your changes, and submit a pull request.
