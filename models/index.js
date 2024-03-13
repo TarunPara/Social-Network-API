@@ -1,5 +1,5 @@
 // Import the User model
-const User = require('./User');
+const User = require('./user');
 // Import the Thought model
 const Thought = require('./Thought');
 
